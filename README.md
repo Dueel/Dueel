@@ -9,3 +9,8 @@ And I make things.
 - Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"/>
 - Node.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" height="20"/>
 - MongoDB <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" height="20"/>
+
+### Currently Working on
+- Hypixel Bridge Bot
+- Random Pack Bot
+- Nylus (Bedwars Stats Bot)
