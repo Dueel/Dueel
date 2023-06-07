@@ -13,4 +13,3 @@ And I make things.
 ### Currently Working on
 - Hypixel Bridge Bot
 - Random Pack Bot
-- Nylus (Bedwars Stats Bot)
