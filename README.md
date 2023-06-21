@@ -11,5 +11,6 @@ And I make things.
 - MongoDB <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" height="20"/>
 
 ### Currently Working on
+- Cocoa Bot
 - Hypixel Bridge Bot
 - Random Pack Bot
